@@ -1,9 +1,14 @@
 .note{
     width: 100px;
+    font-size: 25px;
 }
 canvas{
     border:5px solid white;
     border-radius:20px;
-    box-shadow:5px 5px 5px black;
+    box-shadow:5px 5px 5px rgb(255, 255, 255);
     margin-top:160px;
   }
+.heading{
+    width:100%;
+    font-size:18px;
+}
